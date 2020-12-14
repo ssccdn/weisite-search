@@ -1,0 +1,26 @@
+{
+  "code": 2020,
+  "API-NAME": "Google SEO",
+  "site": "qiuzq.cn",
+  "result": {
+    "google": {
+      "shoulu": {
+        "API-NAME": "谷歌收录查询",
+        "result": [
+          "458"
+        ]
+      },
+      "fanlian": {
+        "API-NAME": "谷歌收录查询",
+        "result": [
+          "30"
+        ]
+      },
+      "pr": {
+        "API-NAME": "Google PR",
+        "pr": 0
+      }
+    }
+  },
+  "data": 1607960402
+}
