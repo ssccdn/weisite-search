@@ -1,0 +1,167 @@
+{
+  "code": 2020,
+  "API-NAME": "网站SEO综合查询接口",
+  "site": "aliyun.com",
+  "result": {
+    "360": {
+      "shoulu": {
+        "API-NAME": "360收录查询",
+        "result": "4660000"
+      },
+      "fanlian": {
+        "API-NAME": "360收录查询",
+        "result": "661000"
+      },
+      "pr": {
+        "API-NAME": "360权重",
+        "result": {
+          "web": "6",
+          "iphone": "6"
+        }
+      }
+    },
+    "domain": {
+      "API-NAME": "域名注册检测",
+      "type": "register",
+      "domain": "aliyun.com",
+      "time": 1607959911
+    },
+    "assess": {
+      "API-NAME": "域名价格评估",
+      "price": {
+        "state": "money",
+        "name": "2877163"
+      }
+    },
+    "security": {
+      "qq": {
+        "API-NAME": "是否被QQ拦截",
+        "result": {
+          "type": false,
+          "s": 1
+        }
+      },
+      "baidu": {
+        "safe": {
+          "API-NAME": "百度网址安全查询",
+          "result": "safe"
+        },
+        "score": {
+          "API-NAME": "百度安全检测",
+          "settle": 80
+        }
+      },
+      "wechat": {
+        "API-NAME": "检测域名是否被微信封锁",
+        "result": "未拦截"
+      }
+    },
+    "baidu": {
+      "pc": {
+        "API-NAME": "搜狗 PC 收录、反链查询",
+        "result": {
+          "shoulu": "196183874",
+          "fanlian": "269534"
+        }
+      },
+      "mb": {
+        "API-NAME": "搜狗 移动 收录查询",
+        "result": {
+          "shoulu": "196183875"
+        }
+      },
+      "pr": {
+        "API-NAME": "搜狗权重",
+        "result": {
+          "web": "5",
+          "iphone": "5"
+        }
+      }
+    },
+    "rand": {
+      "chinaz": [],
+      "aizhan": {
+        "360": {
+          "flow": {
+            "web": {
+              "low": "14726",
+              "high": "26155"
+            },
+            "iphone": {
+              "low": "17502",
+              "high": "23510"
+            }
+          },
+          "web": "6",
+          "iphone": "6"
+        },
+        "baidu": {
+          "flow": {
+            "web": {
+              "low": "89327",
+              "high": "124866"
+            },
+            "iphone": {
+              "low": "17502",
+              "high": "23510"
+            }
+          },
+          "web": "7",
+          "iphone": "6"
+        },
+        "sougou": {
+          "flow": {
+            "web": {
+              "low": "5122",
+              "high": "5717"
+            },
+            "iphone": {
+              "low": "5054",
+              "high": "10302"
+            }
+          },
+          "web": "5",
+          "iphone": "5"
+        },
+        "sm": {
+          "flow": {
+            "low": "4478",
+            "high": "5707"
+          },
+          "web": "5"
+        }
+      }
+    },
+    "icp": {
+      "API-NAME": "ICP-备案信息",
+      "icp": {
+        "Sponsor": "阿里云计算有限公司",
+        "Nature": "企业",
+        "LicenseNumber": "浙B2-20080101-4",
+        "WebsiteName": "阿里云.",
+        "WebSiteAddress": "www.aliyun.com",
+        "WebSiteUrl": "aliyun.com",
+        "Audit": "2020-08-10"
+      }
+    },
+    "tencent_icp": {
+      "API-NAME": "检测是否为腾讯接入商",
+      "domain": "aliyun.com",
+      "result": {
+        "report": "其它",
+        "icp_type": true,
+        "icp": "浙B2-20080101"
+      }
+    },
+    "ism": {
+      "网站名称": "阿里云",
+      "开办主体": "企业单位",
+      "网站类别": "非交互式",
+      "开办者名称": "阿里云计算有限公司",
+      "公安备案号": "33010602009975",
+      "备案地公安机关": "浙江省杭州市西湖区网安大队",
+      "公安机关备案时间": "2019-09-17"
+    }
+  },
+  "data": 1607959920
+}
