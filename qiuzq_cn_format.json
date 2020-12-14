@@ -1,0 +1,173 @@
+{
+  "code": 2020,
+  "API-NAME": "网站SEO综合查询接口",
+  "site": "qiuzq.cn",
+  "result": {
+    "360": {
+      "shoulu": {
+        "API-NAME": "360收录查询",
+        "result": "19"
+      },
+      "fanlian": {
+        "API-NAME": "360收录查询",
+        "result": "1090"
+      },
+      "pr": {
+        "API-NAME": "360权重",
+        "result": {
+          "web": null,
+          "iphone": null
+        }
+      }
+    },
+    "domain": {
+      "API-NAME": "域名注册检测",
+      "type": "register",
+      "domain": "qiuzq.cn",
+      "time": 1607960247
+    },
+    "assess": {
+      "API-NAME": "域名价格评估",
+      "price": 0
+    },
+    "security": {
+      "qq": {
+        "API-NAME": "是否被QQ拦截",
+        "result": {
+          "type": false,
+          "s": 1
+        }
+      },
+      "baidu": {
+        "safe": {
+          "API-NAME": "百度网址安全查询",
+          "result": "unknown"
+        },
+        "score": {
+          "API-NAME": "百度安全检测",
+          "settle": 80
+        }
+      },
+      "wechat": {
+        "API-NAME": "检测域名是否被微信封锁",
+        "result": "未拦截"
+      }
+    },
+    "baidu": {
+      "pc": {
+        "API-NAME": "搜狗 PC 收录、反链查询",
+        "result": {
+          "shoulu": "17",
+          "fanlian": "7"
+        }
+      },
+      "mb": {
+        "API-NAME": "搜狗 移动 收录查询",
+        "result": {
+          "shoulu": "18"
+        }
+      },
+      "pr": {
+        "API-NAME": "搜狗权重",
+        "result": {
+          "web": null,
+          "iphone": null
+        }
+      }
+    },
+    "rand": {
+      "chinaz": {
+        "baidupc": "0",
+        "baidu": "0",
+        "so360pc": "--",
+        "so360mobile": "0",
+        "sm": "--",
+        "sogoupc": "0",
+        "sogoumobile": "0",
+        "toutiao": "0"
+      },
+      "aizhan": {
+        "360": {
+          "flow": {
+            "web": {
+              "low": "0",
+              "high": "0"
+            },
+            "iphone": {
+              "low": "0",
+              "high": "0"
+            }
+          },
+          "web": null,
+          "iphone": null
+        },
+        "baidu": {
+          "flow": {
+            "web": {
+              "low": "0",
+              "high": "0"
+            },
+            "iphone": {
+              "low": "0",
+              "high": "0"
+            }
+          },
+          "web": null,
+          "iphone": null
+        },
+        "sougou": {
+          "flow": {
+            "web": {
+              "low": "0",
+              "high": "0"
+            },
+            "iphone": {
+              "low": "0",
+              "high": "0"
+            }
+          },
+          "web": null,
+          "iphone": null
+        },
+        "sm": {
+          "flow": {
+            "low": "0",
+            "high": "0"
+          },
+          "web": null
+        }
+      }
+    },
+    "icp": {
+      "API-NAME": "ICP-备案信息",
+      "icp": {
+        "Sponsor": "邱振强",
+        "Nature": "个人",
+        "LicenseNumber": "桂ICP备18008823号-1",
+        "WebsiteName": "瑾忆小栈",
+        "WebSiteAddress": "www.qiuzq.cn",
+        "WebSiteUrl": "qiuzq.cn",
+        "Audit": "2018-09-17"
+      }
+    },
+    "tencent_icp": {
+      "API-NAME": "检测是否为腾讯接入商",
+      "domain": "qiuzq.cn",
+      "result": {
+        "report": "腾讯云备案",
+        "icp_type": true,
+        "icp": "桂ICP备18008823号"
+      }
+    },
+    "ism": {
+      "网站名称": "",
+      "开办主体": null,
+      "网站类别": null,
+      "开办者名称": null,
+      "公安备案号": null,
+      "备案地公安机关": null,
+      "公安机关备案时间": "-00-"
+    }
+  },
+  "data": 1607960263
+}
